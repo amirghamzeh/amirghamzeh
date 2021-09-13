@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @amirghamzeh
-- 👀 I’m interested in Flutter , python , java script
+- 👋 Hi, I’m @Amirhosien Ghamzeh
+- 👀 I’m interested in Flutter , Python , Java Script
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Big Companies
 - 📫 How to reach me Telegram , instagram , ....
